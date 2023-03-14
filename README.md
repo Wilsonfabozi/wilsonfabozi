@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Salve 🤙
+
+![Wilson Fabozi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsonfabozi&show_icons=true&theme=hartreuse-dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonfabozi&layout=compact)](https://github.com/wilsonfabozi/github-readme-stats)
+##
