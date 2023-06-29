@@ -22,8 +22,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-gray?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-gray?style=flat&logo=firebase)
 ![amazons3](https://img.shields.io/badge/-AmazonS3-gray?style=flat&logo=amazons3)
-
-[![chat-flow](https://github-readme-stats.vercel.app/api/pin/?username=wilsonfabozi&repo=chat-flow&theme=transparent)](https://github.com/Wilsonfabozi/chat-flow)
-[![docker-node-order](https://github-readme-stats.vercel.app/api/pin/?username=wilsonfabozi&repo=docker-node-order&theme=transparent)](https://github.com/Wilsonfabozi/docker-node-order)
-[![texto-para-fala-node-mysql](https://github-readme-stats.vercel.app/api/pin/?username=wilsonfabozi&repo=texto-para-fala-node-mysql&theme=transparent)](https://github.com/Wilsonfabozi/texto-para-fala-node-mysql)
-[![analise-sentimento-ibm-watson](https://github-readme-stats.vercel.app/api/pin/?username=wilsonfabozi&repo=analise-sentimento-ibm-watson&theme=transparent)](https://github.com/Wilsonfabozi/analise-sentimento-ibm-watson)
