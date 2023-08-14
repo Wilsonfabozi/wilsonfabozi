@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-gray?style=flat&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-gray?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-gray?style=flat&logo=redux)
-![NextJS](https://img.shields.io/badge/-NextJS?style=flat&logo=next.js)
+![NextJS](https://img.shields.io/badge/-NextJS-gray?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
 ![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-gray?style=flat&logo=rabbitmq)
