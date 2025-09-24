@@ -45,15 +45,17 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
 [![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![AWS Serverless](https://img.shields.io/badge/AWS_Serverless-FF9900?logo=serverless&logoColor=white)](#)
 
 ### 📱 Mobile: 
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)](#)
 
 ### 🌫️ Cloud Storage
-[![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-gray?style=flat&logo=amazons3&logoColor=white)](#)
+[![Cloudflare Durable Object](https://custom-icon-badges.demolab.com/badge/Cloudflare%20Durable%20Object-%23FF9900.svg?logo=cloudflare&logoColor=white)](#)
+[![Amazon S3](https://custom-icon-badges.demolab.com/badge/AWS%20S3-%23FF9900.svg?logo=aws-s3&logoColor=white)](#)
 
-### ☁️ Cloud System:
+### ☁️ Cloud EcoSystem:
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
@@ -73,5 +75,6 @@
 ### 🗄️ DevOps:
 [![GitHub](https://img.shields.io/badge/GitHub-2088FF?logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+[![GitLab](https://img.shields.io/badge/GitLab-F38020?logo=gitlab&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-0052CC?logo=docker&logoColor=white)](#)
 
